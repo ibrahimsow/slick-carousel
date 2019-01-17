@@ -1,0 +1,27 @@
+.section-test {
+  background-color: #dbd7d8; }
+  .section-test .lazy {
+    padding: 10%; }
+    .section-test .lazy .carousel-card {
+      overflow: hidden;
+      display: inline-block;
+      max-height: 100%;
+      max-width: 100%; }
+    .section-test .lazy h1 {
+      margin: 50px 0px; }
+    .section-test .lazy img {
+      max-height: 100%;
+      max-width: 100%; }
+    .section-test .lazy button {
+      margin: 50px 0px; }
+
+.slick-slide > div {
+  width: 100%; }
+
+.slick-list {
+  padding: 0 !important; }
+
+.slick-dots {
+  display: none !important; }
+
+/*# sourceMappingURL=style.css.map */
